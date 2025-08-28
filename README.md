@@ -31,6 +31,6 @@ A simple To-Do List web application built with vanilla JavaScript, allowing user
 🧑‍💻 Technologies Used
 
 1.HTML5 – Structure of the app
-2.CSS – Styling (optional, plus Bootstrap classes)
+2.Bootstrap 
 3.JavaScript (ES6) – Core logic for task management
 4.Bootstrap – For UI styling (btn, list-group, etc.)
